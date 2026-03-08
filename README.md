@@ -28,14 +28,14 @@ This project is a payment confirmation page built with **Django** and **Bootstra
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kalutu/mpesa-daraja-api.git
+   git clone https://github.com/BKerio/Django-mpesa.git
 
    ```
 
 2. Go to app directory:
 
    ```bash
-   cd "mpesa-daraja-api/07. Compelete Code/Python (Django)"
+   cd "Django-mpesa"
    ```
 
 3. Activate virtual environment:
